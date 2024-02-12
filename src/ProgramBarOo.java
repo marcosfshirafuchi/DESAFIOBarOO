@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ProgramBarOo {
     /*
-        Programa Imposto Java desenvolvido por Marcos Ferreira Shirafuchi
+        Programa BAR OO desenvolvido por Marcos Ferreira Shirafuchi
         Data: 12/02/2024
      */
     public static void main(String[] args) {
