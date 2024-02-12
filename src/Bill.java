@@ -1,9 +1,9 @@
 public class Bill {
-    public static double beerPrice = 5.00;
-    public static double softDrinkPrice = 3.00;
-    public static double barbecuePrice = 7.00;
-    public static double memPrice = 10.00;
-    public static double womemPrice = 8.00;
+    public static final double beerPrice = 5.00;
+    public static final double softDrinkPrice = 3.00;
+    public static final double barbecuePrice = 7.00;
+    public static final double memPrice = 10.00;
+    public static final double womemPrice = 8.00;
 
     public char gender;
     public int beer;
